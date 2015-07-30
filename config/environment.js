@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'embereduxredux',
+    modulePrefix: 'emberedux',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

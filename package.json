@@ -1,7 +1,7 @@
 {
-  "name": "embereduxredux",
+  "name": "emberedux",
   "version": "0.0.0",
-  "description": "Small description for embereduxredux goes here",
+  "description": "Small description for emberedux goes here",
   "private": true,
   "directories": {
     "doc": "doc",
