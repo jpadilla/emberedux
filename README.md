@@ -1,6 +1,6 @@
 # Emberedux
 
-What if you wated to use [Redux](https://github.com/gaearon/redux) in your Ember.js app. Is it even possible? Well, yes and this is how it would look.
+What if you wanted to use [Redux](https://github.com/gaearon/redux) in your Ember.js app. Is it even possible? Well, yes and this is how it would look.
 
 WARNING: This is just a silly experiment, don't use it in real apps.
 
