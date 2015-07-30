@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'emberedux',
     environment: environment,
-    baseURL: '/emberedux',
+    baseURL: '/',
     locationType: 'hash',
     EmberENV: {
       FEATURES: {
@@ -40,7 +40,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.baseURL = '/emberedux';
   }
 
   return ENV;
