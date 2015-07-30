@@ -1,7 +1,7 @@
 import Ember from 'ember';
-import { createRedux, bindActionCreators } from '../redux/index';
-import CounterActions from '../actions/CounterActions';
-import CounterStore from '../stores/counter';
+import { createRedux, bindActionCreators } from '../../redux/index';
+import CounterActions from '../../actions/CounterActions';
+import CounterStore from '../../stores/counter';
 
 
 function select(state) {
